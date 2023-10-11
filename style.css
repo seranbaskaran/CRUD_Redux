@@ -1,0 +1,115 @@
+/* Add some basic styles to your page */
+/* body {
+    font-family: Arial, sans-serif;
+}
+.main {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.create-div {
+    margin-bottom: 20px;
+}
+input[type="text"] {
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+}
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+#add {
+    background-color: green;
+    color: white;
+}
+.delete-button {
+    background-color: red;
+    color: white;
+}
+.update-button {
+    background-color: blue;
+    color: white;
+} */
+/* styles.css */
+
+/* Add some basic styles to your page */
+/* /* styles.css */
+
+/* Add some basic styles to your page */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.main {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.create-div {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Green button */
+.green-button {
+    background-color: green;
+    color: white;
+}
+
+/* Red button */
+.red-button {
+    background-color: red;
+    color: white;
+}
+
+/* Blue button */
+.blue-button {
+    background-color: blue;
+    color: white;
+}
+
+/* Purple button */
+.purple-button {
+    background-color: purple;
+    color: white;
+}
+
+/* Yellow button */
+.yellow-button {
+    background-color: yellow;
+    color: black;
+}
+
+/* Style the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Style the buttons in the table */
+.button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
